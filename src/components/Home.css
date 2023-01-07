@@ -1,0 +1,20 @@
+.body {
+    background: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    position: relative;
+    height: 120vh;
+
+}
+.nav_bar {
+    padding: 1em;
+    display: flex;
+    border-top-left-radius: 0.25em;
+    border-top-right-radius: 0.25em;
+    cursor:crosshair;
+    justify-content:space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    position: absolute;
+}
